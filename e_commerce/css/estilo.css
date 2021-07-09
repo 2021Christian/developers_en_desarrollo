@@ -1,0 +1,16 @@
+:root{
+    --color1: #fff;
+    --color2: #fff;
+    --color3: #fff;
+    --fondo: #fff;
+    --titulos: 33px;                     /*Christian, dejo algunas variables para aplicar luego en el responsive*/
+    --subtitulos: 20px;
+    --margenes: 60px;
+    --espacios: 30px;
+    --espacios-contenido: 45px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}

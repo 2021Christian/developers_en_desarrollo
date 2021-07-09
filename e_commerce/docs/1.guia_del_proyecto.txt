@@ -1,0 +1,4 @@
+// Bienvenido equipo //
+**como bien dice el título de este maravilloso repositorio, vamos a estar trabajando con un proyecto de negocio virtual.
+A continuación armaremos una breve guia explicando los pasos a lograr para alcanzar un ecommerce**
+
